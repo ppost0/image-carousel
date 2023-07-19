@@ -28,6 +28,14 @@
   user-select: none;
 }
 
+h1 {
+  color: #621313;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 8px 12px;
+  width: 100%;
+  text-align: center;
+}
 
 /* Position the "next button" to the right */
 .next {
